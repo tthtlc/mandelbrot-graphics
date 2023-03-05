@@ -2,9 +2,8 @@
 
 **Mandelbrot**
 
-**quadratic_mandelbrot.py**
-
 [quadratic_mandelbrot](quadratic_mandelbrot.py)
+
 ![](quadratic_mandelbrot.png)
 
 ![](/public/demo.png)
